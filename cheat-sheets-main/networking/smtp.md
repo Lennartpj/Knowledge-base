@@ -1,5 +1,7 @@
-# SMTP
-
+ **SMTP** ([Simple Mail Transfer Protocol](https://www.elektronik-kompendium.de/sites/net/0903081.htm)) ist ein Kommunikationsprotokoll für die Übertragung
+ von E-Mails. Die Kommunikation erfolgt zwischen einem E-Mail-Client und einem SMTP-Server
+ (Postausgangsserver) oder zwischen zwei SMTP-Server.  Für den Austausch der E-Mails sind die Mail Transfer Agents (MTAs) zuständig. Untereinander verständigen sich die MTAs mit dem SMTP-Protokoll. 
+ Neben SMTP gibt mit POP und IMAP noch zwei weitere Protokolle für den E-Mail-Austausch. Diese beiden Protokoll dienen jedoch nur dazu, um E-Mail abzuholen oder online zu verwalten. SMTP dagegen ist ein Kommunikationsprotokoll, das E-Mails entgegennehmen und weiterleiten kann
 
 ## Troubleshooting
 

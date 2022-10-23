@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "3c8ccab94e40bb54",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1132e811cfa5f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb17da73e2b8532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/networking/SMTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89f6601278f41fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/networking/IMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "719b7a8d93289e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/misc/markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a05225d18a529142",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e3071a3d7d8589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7500cdea3468bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cdc843f677aee83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mark",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9855fdfede89e0b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae0a9b6056c1cce3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bdd4d1ca647b386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bca19296c6860490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cheat-sheets-main/networking/IMAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef74d936a3e4031e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cheat-sheets-main/networking/IMAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc570a0ceee6ac0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a416df0a3e029034",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cheat-sheets-main/networking/IMAP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b89f6601278f41fd",
+  "lastOpenFiles": [
+    "cheat-sheets-main/misc/markdown.md",
+    "cheat-sheets-main/networking/IMAP.md",
+    "cheat-sheets-main/linux/nfs.md",
+    "cheat-sheets-main/networking/SMTP.md",
+    "windows-terminal.md",
+    "cheat-sheets-main/tools/iterm2.md",
+    "cheat-sheets-main/tools/helm.md",
+    "cheat-sheets-main/tools/vagrant.md",
+    "cheat-sheets-main/tools/vscode.md",
+    "cheat-sheets-main/tools/wsl.md"
+  ]
+}
