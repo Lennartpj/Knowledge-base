@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/networking/TCP.md",
+                "file": "cheat-sheets-main/tools/openssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/networking/TCP.md",
+                "file": "cheat-sheets-main/tools/openssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/networking/TCP.md",
+                "file": "cheat-sheets-main/tools/openssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/networking/TCP.md"
+                "file": "cheat-sheets-main/tools/openssh.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "d4e9e49bc602f7aa",
   "lastOpenFiles": [
+    "cheat-sheets-main/tools/Nmap.md",
+    "cheat-sheets-main/tools/iterm2.md",
+    "cheat-sheets-main/tools/helm.md",
+    "cheat-sheets-main/tools/git.md",
+    "cheat-sheets-main/networking/TCP.md",
     "cheat-sheets-main/apps/argocd.md",
     "cheat-sheets-main/2022-10-22.md",
-    "cheat-sheets-main/networking/TCP.md",
     "FTP.md",
     "DNS.md",
-    "cheat-sheets-main/misc/markdown.md",
-    "cheat-sheets-main/networking/SMTP.md",
-    "Pasted image 20221023185738.png",
-    "windows-terminal.md",
-    "cheat-sheets-main/networking/IMAP.md"
+    "cheat-sheets-main/misc/markdown.md"
   ]
 }
