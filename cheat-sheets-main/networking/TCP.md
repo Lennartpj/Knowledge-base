@@ -1,4 +1,4 @@
-Das Transmission Control Protocol, kurz TCP, ist Teil der Protokollfamilie TCP/IP. TCP ist ein verbindungsorientiertes Protokoll und soll maßgeblich Datenverluste verhindern, Dateien und Datenströme aufteilen und Datenpakete den Anwendungen zuordnen können.
+Das Transmission Control Protocol, kurz TCP, ist Teil der Protokollfamilie [TCP/IP](TCP_IP). TCP ist ein verbindungsorientiertes Protokoll und soll maßgeblich Datenverluste verhindern, Dateien und Datenströme aufteilen und Datenpakete den Anwendungen zuordnen können.
 
 ### Aufgaben und Funktionen von TCP
 

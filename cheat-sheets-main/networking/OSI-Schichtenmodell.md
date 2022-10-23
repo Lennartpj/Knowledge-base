@@ -80,7 +80,7 @@ Hinweis: Die Endgeräte der Endsysteme und das Übertragungsmedium sind aus dem 
 
 ### Das OSI-Schichtenmodell in der Praxis
 
-Das OSI-Schichtenmodell wird sehr häufig als Referenz herangezogen, wenn es darum geht, Abläufe einer Kommunikation oder Nachrichtenübermittlung darzustellen. Doch eigentlich ist das DoD-Schichtenmodell (TCP/IP) viel näher an der Realität.  
+Das OSI-Schichtenmodell wird sehr häufig als Referenz herangezogen, wenn es darum geht, Abläufe einer Kommunikation oder Nachrichtenübermittlung darzustellen. Doch eigentlich ist das DoD-Schichtenmodell ([TCP/IP](tcp_ip)) viel näher an der Realität.  
 Das Problem des OSI-Schichtenmodells ist die Standardisierungsorganisation ISO, die einfach zu schwerfällig war, um in kürzester Zeit einen Rahmen für die Aufgaben von Protokollen und Übertragungssystemen in der Netzwerktechnik auf die Beine zu stellen. TCP/IP dagegen war frei verfügbar, funktionierte und verbreitete sich mit weiteren Protokollen rasend schnell. Der ISO blieb nichts anderes übrig, als TCP/IP im OSI-Schichtenmodell zu berücksichtigen.  
 Neben TCP/IP haben sich noch weitere Netzwerkprotokolle entwickelt. Die wurden jedoch irgendwann von TCP/IP abgelöst. Fast alle Netzwerke arbeiten heute auf der Basis von TCP/IP.
 
