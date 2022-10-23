@@ -1,0 +1,6 @@
+HTTPS bzw. HTTP Secure ist die Anwendung von HTTP in Verbindung mit Verschlüsselung und Authentifizierung. Wobei in der Regel nur der angefragte Webserver sich mit einem Zertifikat authentisieren muss.
+
+Eine verschlüsselte Verbindung mit einem Browser signalisiert man mit einem "https://" (TCP-Port 443) statt "http://" (TCP-Port 80). Dabei muss sich der Webserver dem Client gegenüber authentisieren, ob er tatsächlich der Webserver ist, der sich unter der eingegebenen Adresse befindet. Zusätzlich wird die Verbindung bzw. Sitzung Ende-zu-Ende-verschlüsselt. Das bedeutet, die Stationen zwischen Client und Server können die Kommunikation nicht entschlüsseln.
+
+Für die Authentifizierung und Verschlüsselung ist SSL/TLS verantwortlich. Es schiebt sich zwischen HTTP und dem Transportprotokoll [[TCP]]. Damit steht SSL/TLS auch für andere Anwendungsprotokolle zur Verfügung. Beispielsweise SMTPS, [IMAPS](IMAP) und FTPS. SSL arbeitet für den Anwender nahezu unsichtbar.  
+[[SSL]] wurde bis zur Version 3.0 von Netscape entwickelt und dann von der [IETF][https://www.ietf.org/about/] in TLS überführt. Obwohl heute durchgehend [[TLS]] zum Einsatz kommt, spricht man immer noch gerne von SSL.

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "af3a2142db8cd750",
+        "id": "2327bcaf48951b77",
         "type": "tabs",
         "children": [
           {
-            "id": "cf91c02fa985d4d9",
+            "id": "923d3f7ee119bf50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/networking/TLS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "osi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheat-sheets-main/networking/TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cheat-sheets-main/networking/TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cheat-sheets-main/networking/TLS.md"
+              }
             }
           }
         ]
@@ -131,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7500cdea3468bdb1",
+  "active": "923d3f7ee119bf50",
   "lastOpenFiles": [
-    "cheat-sheets-main/tools/Ansible/Ansible installation.md",
-    "cheat-sheets-main/tools/Ansible/Ansible.md",
     "cheat-sheets-main/networking/SSH.md",
-    "cheat-sheets-main/networking/TCP.md",
-    "[.md",
-    "cheat-sheets-main/misc/markdown.md",
-    "cheat-sheets-main/tools/bitwarden.md",
-    "cheat-sheets-main/tools/certutil.md",
-    "cheat-sheets-main/tools/datree.md",
-    "cheat-sheets-main/tools/git.md"
+    "cheat-sheets-main/networking/SSL.md",
+    "cheat-sheets-main/networking/SSL oder TLS?.md",
+    "cheat-sheets-main/networking/IMAP.md",
+    "cheat-sheets-main/networking/OSI-Schichtenmodell.md",
+    "cheat-sheets-main/networking/HTTP und HTTPS.md",
+    "cheat-sheets-main/networking/FTP.md",
+    "cheat-sheets-main/networking/tcp-vs-udp.md",
+    "cheat-sheets-main/networking/create-dkim-keypair.md",
+    "cheat-sheets-main/networking/DNS.md"
   ]
 }
