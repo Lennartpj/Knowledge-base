@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f1132e811cfa5f2d",
+        "id": "efdc18e3a9334971",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb17da73e2b8532",
+            "id": "d4e9e49bc602f7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/networking/SMTP.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b89f6601278f41fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/networking/IMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "719b7a8d93289e4a",
+            "id": "9142b8a021d03d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mark",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/networking/IMAP.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/networking/IMAP.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/networking/IMAP.md"
+                "file": "cheat-sheets-main/networking/TCP.md"
               }
             }
           }
@@ -164,17 +151,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b89f6601278f41fd",
+  "active": "d4e9e49bc602f7aa",
   "lastOpenFiles": [
+    "cheat-sheets-main/apps/argocd.md",
+    "cheat-sheets-main/2022-10-22.md",
+    "cheat-sheets-main/networking/TCP.md",
+    "FTP.md",
+    "DNS.md",
     "cheat-sheets-main/misc/markdown.md",
-    "cheat-sheets-main/networking/IMAP.md",
-    "cheat-sheets-main/linux/nfs.md",
     "cheat-sheets-main/networking/SMTP.md",
+    "Pasted image 20221023185738.png",
     "windows-terminal.md",
-    "cheat-sheets-main/tools/iterm2.md",
-    "cheat-sheets-main/tools/helm.md",
-    "cheat-sheets-main/tools/vagrant.md",
-    "cheat-sheets-main/tools/vscode.md",
-    "cheat-sheets-main/tools/wsl.md"
+    "cheat-sheets-main/networking/IMAP.md"
   ]
 }
