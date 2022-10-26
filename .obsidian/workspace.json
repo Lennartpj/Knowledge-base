@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/linux/iptables.md",
+                "file": "cheat-sheets-main/tools/Ansible/Ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/linux/iptables.md",
+                "file": "cheat-sheets-main/tools/Ansible/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/linux/iptables.md",
+                "file": "cheat-sheets-main/tools/Ansible/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/linux/iptables.md"
+                "file": "cheat-sheets-main/tools/Ansible/Ansible.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "a0fdcb48f1de1460",
   "lastOpenFiles": [
-    "cheat-sheets-main/linux/sed.md",
-    "cheat-sheets-main/linux/user.md",
-    "cheat-sheets-main/tools/Nmap.md",
-    "cheat-sheets-main/Components/Mainboard.md",
-    "cheat-sheets-main/Components/HDD.md",
-    "cheat-sheets-main/Components/SSD.md",
-    "cheat-sheets-main/Components/GPU.md",
-    "cheat-sheets-main/Components/CPU.md",
-    "cheat-sheets-main/Components/RAM.md",
-    "[.md"
+    "cheat-sheets-main/networking/TCP_IP.md",
+    "cheat-sheets-main/networking/tcp-vs-udp.md",
+    "cheat-sheets-main/networking/TLS.md",
+    "cheat-sheets-main/windows/chocolatey.md",
+    "cheat-sheets-main/windows/environment-variables.md",
+    "cheat-sheets-main/windows/powershell.md",
+    "cheat-sheets-main/windows/powershell-remote.md",
+    "cheat-sheets-main/windows/windows-dns-server.md",
+    "cheat-sheets-main/windows/windows-terminal.md",
+    "cheat-sheets-main/windows/windows-updates.md"
   ]
 }
