@@ -4,7 +4,7 @@
 Documentation & Project Homepage: [Argo CD Docs](https://argo-cd.readthedocs.io/en/stable/)
 
 ---
-## Installation
+## Installationen
 
 1. Install Argo CD on a **Kubernetes ([[kubernetes]])** Cluster, using **kubectl ([[kubectl]])**.
 
