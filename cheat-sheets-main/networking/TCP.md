@@ -6,7 +6,7 @@ Das Transmission Control Protocol, kurz TCP, ist Teil der Protokollfamilie [TCP/
 -   Verbindungsmanagement (Connection Establishment and Termination): Verbindungsaufbau und Verbindungsabbau
 -   Fehlerbehandlung (Error Detection): Bestätigung von Datenpaketen und Zeitüberwachung
 -   Flusssteuerung (Flow Control): Dynamische Auslastung der Übertragungsstrecke
--   Anwendungsunterstützung (Application Support): Adressierung spezifischer Anwendungen und Verbindungen durch Port-Nummern
+-   Anwendungsunterstützung (Application Support): Adressierung spezifischer Anwendungen und Verbindungen durch Port-Nummern 
 ---
 ## TCP Ports
 
