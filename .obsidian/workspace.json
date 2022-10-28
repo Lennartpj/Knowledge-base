@@ -11,12 +11,8 @@
             "id": "95cfd1f01ad20275",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-10-28.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95cfd1f01ad20275",
+  "active": "7500cdea3468bdb1",
   "lastOpenFiles": [
+    "cheat-sheets-main/2022-10-28.md",
     "2022-10-28.md",
     "cheat-sheets-main/tools/Check_mk.md",
     "cheat-sheets-main/linux/linux.md",
@@ -146,7 +139,6 @@
     "cheat-sheets-main/networking/FTP.md",
     "cheat-sheets-main/networking/DNS.md",
     "cheat-sheets-main/misc/markdown.md",
-    "cheat-sheets-main/networking/TCP.md",
-    "cheat-sheets-main/networking/TCP_IP.md"
+    "cheat-sheets-main/networking/TCP.md"
   ]
 }
