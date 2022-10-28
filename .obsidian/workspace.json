@@ -11,8 +11,12 @@
             "id": "95cfd1f01ad20275",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/Components/CPU.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheat-sheets-main/Components/CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cheat-sheets-main/Components/CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cheat-sheets-main/Components/CPU.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7500cdea3468bdb1",
+  "active": "95cfd1f01ad20275",
   "lastOpenFiles": [
-    "cheat-sheets-main/2022-10-28.md",
+    "cheat-sheets-main/Components/GPU.md",
+    "cheat-sheets-main/cloud/what-is-cloud-computing.md",
+    "cheat-sheets-main/apps/traefik.md",
+    "cheat-sheets-main/apps/tailscale.md",
+    "cheat-sheets-main/apps/rancher.md",
     "2022-10-28.md",
+    "cheat-sheets-main/2022-10-28.md",
     "cheat-sheets-main/tools/Check_mk.md",
     "cheat-sheets-main/linux/linux.md",
-    "cheat-sheets-main/networking/IP.md",
-    "cheat-sheets-main/networking/HTTP und HTTPS.md",
-    "cheat-sheets-main/networking/FTP.md",
-    "cheat-sheets-main/networking/DNS.md",
-    "cheat-sheets-main/misc/markdown.md",
-    "cheat-sheets-main/networking/TCP.md"
+    "cheat-sheets-main/networking/IP.md"
   ]
 }
