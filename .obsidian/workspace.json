@@ -154,15 +154,15 @@
   },
   "active": "ac50ab51e4c4a24b",
   "lastOpenFiles": [
-    "cheat-sheets-main/tools/Ansible/Ansible.md",
     "cheat-sheets-main/tools/Ansible/Ansible installation.md",
+    "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
+    "cheat-sheets-main/tools/Ansible/Ansible.md",
     "cheat-sheets-main/networking/TCP_IP.md",
     "cheat-sheets-main/networking/tcp-vs-udp.md",
     "cheat-sheets-main/networking/TLS.md",
     "cheat-sheets-main/windows/chocolatey.md",
     "cheat-sheets-main/windows/environment-variables.md",
     "cheat-sheets-main/windows/powershell.md",
-    "cheat-sheets-main/windows/powershell-remote.md",
-    "cheat-sheets-main/windows/windows-dns-server.md"
+    "cheat-sheets-main/windows/powershell-remote.md"
   ]
 }
