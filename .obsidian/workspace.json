@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b131d3e0c05e03f5",
+        "id": "2ef3ca1da103976e",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fdcb48f1de1460",
+            "id": "95cfd1f01ad20275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/tools/Ansible/Ansible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac50ab51e4c4a24b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b27810f0e25156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/tools/Check_mk.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/tools/Check_mk.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/tools/Check_mk.md",
+                "file": "cheat-sheets-main/networking/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/tools/Check_mk.md"
+                "file": "cheat-sheets-main/networking/TCP.md"
               }
             }
           }
@@ -161,20 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e3b27810f0e25156",
+  "active": "95cfd1f01ad20275",
   "lastOpenFiles": [
-    "cheat-sheets-main/linux/linux.md",
-    "cheat-sheets-main/tools/Check_mk.md",
-    "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
-    "cheat-sheets-main/tools/Ansible/Ansible installation.md",
     "cheat-sheets-main/tools/Ansible/Ansible.md",
-    "cheat-sheets-main/networking/TCP_IP.md",
-    "cheat-sheets-main/networking/tcp-vs-udp.md",
-    "cheat-sheets-main/networking/TLS.md",
-    "cheat-sheets-main/windows/chocolatey.md",
-    "cheat-sheets-main/windows/environment-variables.md"
+    "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
+    "cheat-sheets-main/tools/Check_mk.md",
+    "cheat-sheets-main/networking/SMTP.md",
+    "cheat-sheets-main/networking/TCP.md",
+    "cheat-sheets-main/networking/DNS.md",
+    "cheat-sheets-main/networking/SSH.md",
+    "cheat-sheets-main/linux/linux.md",
+    "cheat-sheets-main/tools/Ansible/Ansible installation.md",
+    "cheat-sheets-main/networking/TCP_IP.md"
   ]
 }
