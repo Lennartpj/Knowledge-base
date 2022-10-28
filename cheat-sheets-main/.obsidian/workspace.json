@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "2022-10-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "2022-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/argocd.md",
+                "file": "2022-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/argocd.md"
+                "file": "2022-10-28.md"
               }
             }
           }
@@ -137,5 +137,9 @@
     "collapsed": true
   },
   "active": "40006cc684126087",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2022-10-28.md",
+    "windows/powershell-remote.md",
+    "apps/argocd.md"
+  ]
 }
