@@ -11,8 +11,12 @@
             "id": "95cfd1f01ad20275",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/tools/wsl.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheat-sheets-main/tools/wsl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cheat-sheets-main/tools/wsl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cheat-sheets-main/tools/wsl.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7500cdea3468bdb1",
+  "active": "95cfd1f01ad20275",
   "lastOpenFiles": [
-    "HTTP.md",
-    "cheat-sheets-main/tools/Check_mk.md",
-    "cheat-sheets-main/tools/Ansible/Ansible.md",
-    "cheat-sheets-main/tools/helm.md",
-    "cheat-sheets-main/tools/git.md",
-    "cheat-sheets-main/linux/user.md",
-    "cheat-sheets-main/networking/HTTP(S).md",
-    "cheat-sheets-main/misc/ssl-certs.md",
-    "cheat-sheets-main/networking/TCP_IP.md",
-    "cheat-sheets-main/networking/IP.md"
+    "cheat-sheets-main/tools/terraform.md",
+    "cheat-sheets-main/tools/openssl.md",
+    "cheat-sheets-main/tools/openssh.md",
+    "cheat-sheets-main/tools/iterm2.md",
+    "cheat-sheets-main/tools/Nmap.md",
+    "cheat-sheets-main/tools/datree.md",
+    "cheat-sheets-main/tools/certutil.md",
+    "cheat-sheets-main/tools/bitwarden.md",
+    "cheat-sheets-main/linux/nfs.md",
+    "cheat-sheets-main/linux/mount.md"
   ]
 }
