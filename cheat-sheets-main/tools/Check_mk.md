@@ -1,4 +1,4 @@
-Check_mk is a [[Linux]] based Monitoring system
+Checkmk is software developed in Python and C++ for IT Infrastructure monitoring. It is used for the monitoring of servers, applications, networks, cloud infrastructures, containers, storage, databases and environment sensors.
 
 
 

@@ -11,12 +11,8 @@
             "id": "95cfd1f01ad20275",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/linux/user.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/linux/user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/linux/user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cheat-sheets-main/linux/user.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95cfd1f01ad20275",
+  "active": "7500cdea3468bdb1",
   "lastOpenFiles": [
+    "HTTP.md",
+    "cheat-sheets-main/tools/Check_mk.md",
+    "cheat-sheets-main/tools/Ansible/Ansible.md",
+    "cheat-sheets-main/tools/helm.md",
+    "cheat-sheets-main/tools/git.md",
+    "cheat-sheets-main/linux/user.md",
     "cheat-sheets-main/networking/HTTP(S).md",
     "cheat-sheets-main/misc/ssl-certs.md",
     "cheat-sheets-main/networking/TCP_IP.md",
-    "cheat-sheets-main/networking/IP.md",
-    "cheat-sheets-main/networking/TLS.md",
-    "cheat-sheets-main/networking/SSL.md",
-    "cheat-sheets-main/networking/SSL oder TLS?.md",
-    "[.md",
-    "cheat-sheets-main/misc/ssl-security.md",
-    "HTTP.md"
+    "cheat-sheets-main/networking/IP.md"
   ]
 }
