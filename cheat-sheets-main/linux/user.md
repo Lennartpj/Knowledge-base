@@ -6,6 +6,8 @@ COMMAND | DESCRIPTION
 `sudo userdel username` | Delete a user
 `sudo usermod -aG groupname username` | Add a user to group
 `sudo deluser username groupname` | Remove a user from a group
+`passwd username` | change Password
+`sudo -l -U user_name` | see if user has sudo rights
 
 
 # Permit AD Users and Groups
