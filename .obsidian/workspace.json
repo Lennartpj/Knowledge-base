@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/networking/TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0273524a5134ebde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/linux/SSH Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "722a652b4e9d6eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/networking/SSH.md",
+                "file": "cheat-sheets-main/linux/user.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/networking/SSH.md",
+                "file": "cheat-sheets-main/linux/user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/networking/SSH.md",
+                "file": "cheat-sheets-main/linux/user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/networking/SSH.md"
+                "file": "cheat-sheets-main/linux/user.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "722a652b4e9d6eea",
+  "active": "95cfd1f01ad20275",
   "lastOpenFiles": [
-    "cheat-sheets-main/otherstuff/verschlüsselungen.md",
-    "cheat-sheets-main/networking/SSH.md",
-    "Verschlüsselung.md",
-    "cheat-sheets-main/networking/TCP.md",
-    "cheat-sheets-main/linux/SSH Key.md",
-    "cheat-sheets-main/tools/Ansible/Ansible.md",
-    "cheat-sheets-main/networking/IMAP.md",
-    "cheat-sheets-main/networking/FTP.md",
-    "cheat-sheets-main/Untitled.md",
-    "cheat-sheets-main/networking/TCP_IP.md"
+    "cheat-sheets-main/networking/HTTP(S).md",
+    "cheat-sheets-main/misc/ssl-certs.md",
+    "cheat-sheets-main/networking/TCP_IP.md",
+    "cheat-sheets-main/networking/IP.md",
+    "cheat-sheets-main/networking/TLS.md",
+    "cheat-sheets-main/networking/SSL.md",
+    "cheat-sheets-main/networking/SSL oder TLS?.md",
+    "[.md",
+    "cheat-sheets-main/misc/ssl-security.md",
+    "HTTP.md"
   ]
 }

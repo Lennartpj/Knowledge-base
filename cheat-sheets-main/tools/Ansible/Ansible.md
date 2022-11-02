@@ -23,11 +23,3 @@ https://aap2.demoredhat.com/decks/ansible_best_practices.pdf
 14. [Episode 13](https://www.youtube.com/watch?v=nyXDR4RG4A8)
 15. [Episode 14](https://www.youtube.com/watch?v=N7tgLVCXup4)
 16. [Episode 15](https://www.youtube.com/watch?v=sb5XYD3BLMA)
-
-
-
-
-Ansible Braucht ssh key
-copy-id auf ansible ausfürhenden node ausfürhen
-nutzer für ansible anlegen
-nutzer rechte geben ophne passwd sudo auszuführen
