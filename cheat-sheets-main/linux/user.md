@@ -8,7 +8,7 @@ COMMAND | DESCRIPTION
 `sudo deluser username groupname` | Remove a user from a group
 `passwd username` | change Password
 `sudo -l -U user_name` | see if user has sudo rights
-
+`sudo visudo` | change sudoer file
 
 # Permit AD Users and Groups
 
