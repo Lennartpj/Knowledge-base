@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/tools/wsl.md",
+                "file": "cheat-sheets-main/networking/dns-record-types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/tools/wsl.md",
+                "file": "cheat-sheets-main/networking/dns-record-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/tools/wsl.md",
+                "file": "cheat-sheets-main/networking/dns-record-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/tools/wsl.md"
+                "file": "cheat-sheets-main/networking/dns-record-types.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "95cfd1f01ad20275",
   "lastOpenFiles": [
-    "cheat-sheets-main/tools/terraform.md",
-    "cheat-sheets-main/tools/openssl.md",
-    "cheat-sheets-main/tools/openssh.md",
-    "cheat-sheets-main/tools/iterm2.md",
-    "cheat-sheets-main/tools/Nmap.md",
-    "cheat-sheets-main/tools/datree.md",
-    "cheat-sheets-main/tools/certutil.md",
-    "cheat-sheets-main/tools/bitwarden.md",
-    "cheat-sheets-main/linux/nfs.md",
-    "cheat-sheets-main/linux/mount.md"
+    "cheat-sheets-main/networking/FTP.md",
+    "cheat-sheets-main/networking/dns-record-types.md",
+    "cheat-sheets-main/networking/dns-over-tls.md",
+    "cheat-sheets-main/networking/dns-over-https.md",
+    "cheat-sheets-main/networking/DNS.md",
+    "cheat-sheets-main/networking/create-dkim-keypair.md",
+    "cheat-sheets-main/networking/TLS.md",
+    "cheat-sheets-main/networking/twisted-pair-cables.md",
+    "cheat-sheets-main/networking/vpn.md",
+    "cheat-sheets-main/networking/TCP.md"
   ]
 }

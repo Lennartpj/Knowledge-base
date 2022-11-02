@@ -19,10 +19,10 @@ Das Transmission Control Protocol, kurz TCP, ist Teil der Protokollfamilie [TCP/
 |25|Simple Mail Transfer Protocol ([[SMTP]]) E-mail Routing
 |53|Domain Name System ([[DNS]]) service
 |80|Hypertext Transfer Protocol ([[HTTP]]) used in World Wide Web
-|110|Post Office Protocol ([[POP3]]) used by e-mail clients to retrieve e-mail from a server
+|110|Post Office Protocol ([POP3](POP)) used by e-mail clients to retrieve e-mail from a server
 |119|Network News Transfer Protocol ([[NNTP]])
 |123|Network Time Protocol ([[NTP]])
 |143|Internet Message Access Protocol ([[IMAP]]) Management of Digital Mail
 |161|Simple Network Management Protocol ([[SNMP]])
 |194|Internet Relay Chat ([[IRC]])
-|443|HTTP Secure ([[HTTPS]]) HTTP over [[TLS]]/[[SSL]]
+|443|HTTP Secure ([HTTPS](http-und-https)) HTTP over [[TLS]]/[[SSL]]

@@ -1,6 +1,6 @@
 # SSL Certificates Cheat-Sheet
 
-X.509 is an ITU standard defining the format of public key certificates. X.509 are used in TLS/SSL, which is the basis for [HTTPS.](HTTP(S)) An X.509 certificate binds an identity to a public key using a digital signature. A certificate contains an identity (hostname, organization, etc.) and a public key (RSA, DSA, ECDSA, ed25519, etc.), and is either signed by a Certificate Authority or is Self-Signed.
+X.509 is an ITU standard defining the format of public key certificates. X.509 are used in TLS/SSL, which is the basis for [HTTPS.](HTTP-und-HTTPS.md) An X.509 certificate binds an identity to a public key using a digital signature. A certificate contains an identity (hostname, organization, etc.) and a public key (RSA, DSA, ECDSA, ed25519, etc.), and is either signed by a Certificate Authority or is Self-Signed.
 
 ## Self-Signed Certificates
 
