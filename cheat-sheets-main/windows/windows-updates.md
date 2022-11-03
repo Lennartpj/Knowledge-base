@@ -12,6 +12,7 @@ Install-Module -Name PSWindowsUpdate
 Get-Command -module PSWindowsUpdate
 ```
 ---
+### Execute Update
 ```powershell
 Get-WindowsUpdate -Install -Download -AcceptAll -Autoreboot
 ```
