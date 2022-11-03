@@ -10,6 +10,8 @@ COMMAND | DESCRIPTION
 `sudo -l -U user_name` | see if user has sudo rights
 `sudo visudo` | change sudoer file
 
+
+
 # Permit AD Users and Groups
 
 ###  Add AD Groups
