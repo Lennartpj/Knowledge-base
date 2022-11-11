@@ -42,6 +42,7 @@ With the prerequisites in check, now proceed and install Ansible using the comma
 sudo  dnf -y install ansible
 ```
 
+### Problem with dnf
 if the command dnf is not recognised:
 ```Bash
 sudo yum install dnf

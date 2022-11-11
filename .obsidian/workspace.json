@@ -11,11 +11,28 @@
             "id": "24c04b0a73298c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/linux/SSH Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e999c0ce2b067151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cheat-sheets-main/linux/RedHat remote execution.md"
+              }
             }
           }
         ]
@@ -128,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24c04b0a73298c91",
+  "active": "e999c0ce2b067151",
   "lastOpenFiles": [
+    "cheat-sheets-main/linux/SSH Key.md",
+    "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
+    "cheat-sheets-main/tools/Ansible/Ansible installation.md",
+    "cheat-sheets-main/tools/Ansible/Ansible.md",
     "cheat-sheets-main/Schule/Untitled.md",
     "cheat-sheets-main/windows/windows-updates.md",
     "cheat-sheets-main/windows/windows-terminal.md",
     "cheat-sheets-main/windows/windows-dns-server.md",
     "cheat-sheets-main/windows/powershell-remote.md",
-    "cheat-sheets-main/windows/powershell.md",
-    "cheat-sheets-main/windows/environment-variables.md",
-    "cheat-sheets-main/windows/chocolatey.md",
-    "cheat-sheets-main/linux/nfs.md",
-    "cheat-sheets-main/linux/sed.md"
+    "cheat-sheets-main/windows/powershell.md"
   ]
 }

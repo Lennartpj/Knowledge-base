@@ -3,7 +3,7 @@
 
 ```yml
 --- 
-- hosts: yum 
+- hosts: all 
   tasks:
   - name: Update all installed packages using YUM module 
     yum: 
