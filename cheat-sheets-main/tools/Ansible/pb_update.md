@@ -1,3 +1,4 @@
+```yml
 ---
 - hosts: all
   tasks:
@@ -14,3 +15,4 @@
 
   - name: ping host
     ansible.builtin.ping:
+```
