@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
+                "file": "cheat-sheets-main/tools/Ansible/pb_update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03168dd8c849adc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheets-main/tools/Ansible/pb_install_checkmk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
+                "file": "cheat-sheets-main/tools/Ansible/pb_install_checkmk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/linux/RedHat remote execution.md",
+                "file": "cheat-sheets-main/tools/Ansible/pb_install_checkmk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/linux/RedHat remote execution.md"
+                "file": "cheat-sheets-main/tools/Ansible/pb_install_checkmk.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e999c0ce2b067151",
+  "active": "03168dd8c849adc6",
   "lastOpenFiles": [
-    "cheat-sheets-main/linux/SSH Key.md",
+    "cheat-sheets-main/tools/Ansible/pb_update.md",
     "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
+    "cheat-sheets-main/linux/RedHat remote execution.md",
+    "cheat-sheets-main/linux/SSH Key.md",
     "cheat-sheets-main/tools/Ansible/Ansible installation.md",
     "cheat-sheets-main/tools/Ansible/Ansible.md",
     "cheat-sheets-main/Schule/Untitled.md",
     "cheat-sheets-main/windows/windows-updates.md",
     "cheat-sheets-main/windows/windows-terminal.md",
-    "cheat-sheets-main/windows/windows-dns-server.md",
-    "cheat-sheets-main/windows/powershell-remote.md",
-    "cheat-sheets-main/windows/powershell.md"
+    "cheat-sheets-main/windows/windows-dns-server.md"
   ]
 }
