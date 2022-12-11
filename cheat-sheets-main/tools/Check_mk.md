@@ -13,3 +13,11 @@ cmk-agent-ctl --version
 ```Bash
 cmk-agent-ctl status
 ```
+
+##### Check_mk agent register
+```bash
+cmk-update-agent register -s checkmk -i monitoring -H $HOSTNAME -p http -U cmkadmin -P ******* -v
+```
+
+ firewall-cmd --add-port=6556/tcp --permanent
+ firewall-cmd --reload
