@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c57d656621e75dc9",
+        "id": "0e9d8c33f2452c87",
         "type": "tabs",
         "children": [
           {
-            "id": "24c04b0a73298c91",
+            "id": "d0d0ac439431ccd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheets-main/linux/SSH Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e999c0ce2b067151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/tools/Ansible/pb_update.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03168dd8c849adc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cheat-sheets-main/docker/docker.md",
+                "file": "cheat-sheets-main/tools/Check_mk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheets-main/docker/docker.md",
+                "file": "cheat-sheets-main/tools/Check_mk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheets-main/docker/docker.md",
+                "file": "cheat-sheets-main/tools/Check_mk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheets-main/docker/docker.md"
+                "file": "cheat-sheets-main/tools/Check_mk.md"
               }
             }
           }
@@ -161,16 +136,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7500cdea3468bdb1",
+  "active": "d0d0ac439431ccd8",
   "lastOpenFiles": [
+    "cheat-sheets-main/linux/SSH Key.md",
+    "cheat-sheets-main/tools/Ansible/pb_update.md",
+    "cheat-sheets-main/docker/docker.md",
     "cheat-sheets-main/tools/Check_mk.md",
     "cheat-sheets-main/tools/bitwarden.md",
-    "cheat-sheets-main/docker/docker.md",
     "cheat-sheets-main/tools/Ansible/pb_install_checkmk.md",
-    "cheat-sheets-main/tools/Ansible/pb_update.md",
     "cheat-sheets-main/tools/Ansible/Ansible Playbook.md",
     "cheat-sheets-main/linux/RedHat remote execution.md",
-    "cheat-sheets-main/linux/SSH Key.md",
     "cheat-sheets-main/tools/Ansible/Ansible installation.md",
     "cheat-sheets-main/tools/Ansible/Ansible.md"
   ]
